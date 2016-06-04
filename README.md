@@ -1,6 +1,6 @@
-# lottoMadnessJava
+# Color Slider
 
 
 <br \> JavaApplication1.jar : executable
 
-An application that simulates the wastefulness of playing the lottery.
+An application that lets you pick a color.
